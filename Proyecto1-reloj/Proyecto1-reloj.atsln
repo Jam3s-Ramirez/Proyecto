@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "Proyecto1-reloj", "Proyecto1-reloj\Proyecto1-reloj.asmproj", "{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "Lab3.0", "..\Lab3.0\Lab3.0\Lab3.0.asmproj", "{11E0653D-AA05-45E4-BB88-7D88BCD1C0DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Debug|AVR.Build.0 = Debug|AVR
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Release|AVR.ActiveCfg = Release|AVR
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Release|AVR.Build.0 = Release|AVR
+		{11E0653D-AA05-45E4-BB88-7D88BCD1C0DE}.Debug|AVR.ActiveCfg = Debug|AVR
+		{11E0653D-AA05-45E4-BB88-7D88BCD1C0DE}.Debug|AVR.Build.0 = Debug|AVR
+		{11E0653D-AA05-45E4-BB88-7D88BCD1C0DE}.Release|AVR.ActiveCfg = Release|AVR
+		{11E0653D-AA05-45E4-BB88-7D88BCD1C0DE}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

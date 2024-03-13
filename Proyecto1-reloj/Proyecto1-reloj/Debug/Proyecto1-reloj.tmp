@@ -1,0 +1,90 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\2.1.506\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\2.1.506\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\2.1.506\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\Debug\Proyecto1-reloj.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Proyecto1-reloj.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Proyecto1-reloj.map</FILE>
+  <FILE>Proyecto1-reloj.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>38</LINE></MAIN>
+  <INT_PC><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>680</LINE></INT_PC>
+  <INT_TIMER0><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>784</LINE></INT_TIMER0>
+  <SETUP><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>49</LINE></SETUP>
+  <INT_T0><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>769</LINE></INT_T0>
+  <LOOP><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>104</LINE></LOOP>
+  <SALTO000><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>130</LINE></SALTO000>
+  <SALTO001><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>133</LINE></SALTO001>
+  <SALTO010><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>136</LINE></SALTO010>
+  <SALTO011><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>139</LINE></SALTO011>
+  <ESTADO000><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>149</LINE></ESTADO000>
+  <ESTADO001><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>265</LINE></ESTADO001>
+  <ESTADO010><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>366</LINE></ESTADO010>
+  <ESTADO011><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>498</LINE></ESTADO011>
+  <SALTO100><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>142</LINE></SALTO100>
+  <ESTADO100><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>640</LINE></ESTADO100>
+  <SALTO101><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>145</LINE></SALTO101>
+  <ESTADO101><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>644</LINE></ESTADO101>
+  <TABLA7SEG><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>675</LINE></TABLA7SEG>
+  <DELAY><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>649</LINE></DELAY>
+  <AUMENTAR_SEGUNDOS><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>220</LINE></AUMENTAR_SEGUNDOS>
+  <AUMENTAR_UMIN><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>228</LINE></AUMENTAR_UMIN>
+  <AUMENTAR_DMIN><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>233</LINE></AUMENTAR_DMIN>
+  <AUMENTAR_UHOR><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>238</LINE></AUMENTAR_UHOR>
+  <AUMENTAR_DHOR><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>243</LINE></AUMENTAR_DHOR>
+  <VERIFICAR><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>248</LINE></VERIFICAR>
+  <DELAY_LED><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>668</LINE></DELAY_LED>
+  <RESET_HORA><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>254</LINE></RESET_HORA>
+  <AUMENTAR_DDIA><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>328</LINE></AUMENTAR_DDIA>
+  <VERIFICAR_DDIA><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>334</LINE></VERIFICAR_DDIA>
+  <AUMENTAR_DMES><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>346</LINE></AUMENTAR_DMES>
+  <VERIFICAR_UMES><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>351</LINE></VERIFICAR_UMES>
+  <RESET_DIA><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>340</LINE></RESET_DIA>
+  <RESET_MES><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>357</LINE></RESET_MES>
+  <CONFIG_AUMENTAR_DMIN><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>445</LINE></CONFIG_AUMENTAR_DMIN>
+  <DEC_DMIN><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>450</LINE></DEC_DMIN>
+  <RESET_MINUTOS><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>456</LINE></RESET_MINUTOS>
+  <UNDERFLOW_MINUTOS><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>461</LINE></UNDERFLOW_MINUTOS>
+  <CONFIG_AUMENTAR_DHOR><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>468</LINE></CONFIG_AUMENTAR_DHOR>
+  <DEC_DHOR><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>473</LINE></DEC_DHOR>
+  <CONFIG_VERIFICAR><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>479</LINE></CONFIG_VERIFICAR>
+  <UNDERFLOW_HORA><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>490</LINE></UNDERFLOW_HORA>
+  <CONFIG_RESET_HORA><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>485</LINE></CONFIG_RESET_HORA>
+  <CONFIG_AUMENTAR_DDIA><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>574</LINE></CONFIG_AUMENTAR_DDIA>
+  <VERIFICAR_DEC_DDIA><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>580</LINE></VERIFICAR_DEC_DDIA>
+  <CONFIG_VERIFICAR_DDIA><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>588</LINE></CONFIG_VERIFICAR_DDIA>
+  <UNDERFLOW_DIAS><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>594</LINE></UNDERFLOW_DIAS>
+  <CONFIG_AUMENTAR_DMES><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>601</LINE></CONFIG_AUMENTAR_DMES>
+  <CONFIG_VERIFICAR_DEC_DMES><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>606</LINE></CONFIG_VERIFICAR_DEC_DMES>
+  <CONFIG_VERIFICAR_UMES><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>614</LINE></CONFIG_VERIFICAR_UMES>
+  <UNDERFLOW_MES><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>626</LINE></UNDERFLOW_MES>
+  <CONFIG_RESET_DIA><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>633</LINE></CONFIG_RESET_DIA>
+  <CONFIG_RESET_MES><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>620</LINE></CONFIG_RESET_MES>
+  <DELAY1><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>651</LINE></DELAY1>
+  <DELAY2><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>655</LINE></DELAY2>
+  <DELAY3><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>659</LINE></DELAY3>
+  <DELAY4><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>663</LINE></DELAY4>
+  <DELAY_LED1><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>670</LINE></DELAY_LED1>
+  <INT_ESTADO010><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>703</LINE></INT_ESTADO010>
+  <INT_ESTADO011><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>719</LINE></INT_ESTADO011>
+  <LIMPIAR_ESTADO><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>751</LINE></LIMPIAR_ESTADO>
+  <INT_PC_POP><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>755</LINE></INT_PC_POP>
+  <INT_ESTADO100><FILE>C:\Users\James Ramirez\OneDrive - Universidad del Valle de Guatemala\Documentos\Atmel Studio\7.0\Proyecto1-reloj\Proyecto1-reloj\main.asm</FILE><LINE>735</LINE></INT_ESTADO100>
+ </LABELS>
+</ASSEMBLER_INFO>
